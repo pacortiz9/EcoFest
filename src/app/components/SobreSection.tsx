@@ -12,7 +12,7 @@ export default function SobreSection() {
           El objetivo es generar conciencia sobre la emergencia climática, enfocándonos en la gestión de residuos y el cuidado del agua, a través de charlas, talleres y actividades culturales 100% gratuitas.
         </p>
         <p>
-          📅 Fecha: <u>6 y 7 de junio de 2025</u><br />
+          📅 Fecha: <u>26 y 27 de septiembre de 2025</u><br />
           📍 Lugar: <u>Deportivo Los Galeana, Alcaldía Gustavo A. Madero, CDMX</u>
         </p>
       </div>
